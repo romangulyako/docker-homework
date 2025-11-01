@@ -18,6 +18,7 @@ public class HomeController {
                     .info { background: #f0f0f0; padding: 20px; margin: 10px 0; }
                 </style>
             </head>
+            
             <body>
                 <div class="container">
                     <h1>🚀 Multi-Stage Docker App</h1>
